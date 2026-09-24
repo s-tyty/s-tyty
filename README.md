@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=Aditya%20(s-tyty)&fontSize=60&fontColor=ffffff&desc=Le%20Loup%20Solitaire&descSize=25&descAlignY=75" alt="Bannière Vague Sombre">
 </div>
 
-### 🔗 Salut ! Moi c'est Aditya (s-tyty)
+### 🔗 Salut ! Moi c'est Aditya
 
 Bienvenue dans mon espace. Moins de mots, plus de code.
 

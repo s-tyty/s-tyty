@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=A9A9B3&background=0D1117&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE" alt="Bannière Aditya">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE" alt="Bannière Aditya">
 </div>
 
 ---
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">🔧 Tech Stack</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="45" />&nbsp;
@@ -21,7 +21,7 @@
 
 <br>
 
-<h1 align="center">Tools & Environnement</h1>
+<h1 align="center">⚙️ Tools & Environnement</h1>
 
 <p align="center">
   <!-- IDEs & Éditeurs -->

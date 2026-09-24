@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A9A9B3&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE" alt="Bannière Aditya">
 </div>
 
+---
+
 ### 🔧 Tech Stack
 
 <p align="left">

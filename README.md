@@ -1,15 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A9A9B3&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=Aditya+(s-tyty);Le+Loup+Solitaire;Codeur+de+l'ombre;BUT+Informatique" alt="Bannière Animée">
 </div>
-
-### 🔗 Salut ! Moi c'est Aditya
-
-Bienvenue dans mon espace. Moins de mots, plus de code.
-
-* 📕 Étudiant de 18 ans en **2ème année de BUT Informatique** à l'IUT de Paris Rives de Seine.
-* 🐺 Surnommé le "Loup Solitaire" : j'évolue en autonomie, concentré sur la logique brute et l'efficacité dans l'ombre.
-* 💻 Développeur polyvalent : de l'architecture système bas niveau à la conception d'applications logicielles complexes.
-
 ### 🔧 Tech Stack
 
 <p align="left">

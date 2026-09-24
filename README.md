@@ -1,6 +1,5 @@
-<!-- Remplace "LIEN_VERS_TA_BANNIERE" par l'URL de ton image d'en-tête (ex: un loup sous la lune) -->
 <div align="center">
-  <img src="LIEN_VERS_TA_BANNIERE.png" alt="Bannière Aditya" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=Aditya%20(s-tyty)&fontSize=60&fontColor=ffffff&desc=Le%20Loup%20Solitaire&descSize=25&descAlignY=75" alt="Bannière Vague Sombre">
 </div>
 
 ### 🔗 Salut ! Moi c'est Aditya (s-tyty)

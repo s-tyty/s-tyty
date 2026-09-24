@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A9A9B3&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=Aditya+(s-tyty);Le+Loup+Solitaire;Codeur+de+l'ombre;BUT+Informatique" alt="Bannière Animée">
 </div>
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />

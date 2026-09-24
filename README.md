@@ -14,7 +14,7 @@
 <h1 align="center">Tech Stack</h1>
 
 <h3 align="center">LANGUAGES</h3>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="45" />&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="45" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="45" />&nbsp;

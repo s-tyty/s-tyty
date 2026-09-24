@@ -3,7 +3,7 @@
   <img src="LIEN_VERS_TA_BANNIERE.png" alt="Bannière Aditya" width="100%">
 </div>
 
-### 🔗 Salut ! Moi c'est Aditya (s-tyty)
+### 🔗 Salut ! Moi c'est Aditya
 
 Bienvenue sur mon GitHub, vous y trouverez l'ensemble de mes projets universitaires et personnels !
 

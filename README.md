@@ -7,9 +7,9 @@
 
 Bienvenue sur mon GitHub, vous y trouverez l'ensemble de mes projets universitaires et personnels !
 
-* 📕 Étudiant en BUT Informatique à l'IUT de Paris Rives de Seine[cite: 4].
+* 📕 Étudiant en BUT Informatique à l'IUT de Paris Rives de Seine.
 * 🐺 Surnommé le "Loup Solitaire" : autonome et silencieux, j'aime coder et résoudre des problèmes dans l'ombre.
-* 💻 Développeur sur des projets variés allant de l'algorithmique en Java aux systèmes Linux, en passant par le C[cite: 4].
+* 💻 Développeur sur des projets variés allant de l'algorithmique en Java aux systèmes Linux, en passant par le C, Java, Data.
 
 ### 🔧 Tech Stack
 

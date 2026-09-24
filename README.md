@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE" alt="Bannière Aditya">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE" alt="Bannière Aditya">
 </div>
 
 ---

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=250&section=header&text=Aditya%20(s-tyty)&fontSize=60&fontColor=ffffff&desc=Le%20Loup%20Solitaire&descSize=25&descAlignY=75" alt="Bannière Vague Sombre">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A9A9B3&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=Aditya+(s-tyty);Le+Loup+Solitaire;Codeur+de+l'ombre;BUT+Informatique" alt="Bannière Animée">
 </div>
 
 ### 🔗 Salut ! Moi c'est Aditya

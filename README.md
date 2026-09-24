@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">🔧 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="35" />
@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align="center">⚙️ Tools & Environnement</h2>
+<h2 align="center">Tools & Environnement</h2>
 
 <p align="center">
   <!-- IDEs & Éditeurs -->

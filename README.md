@@ -8,7 +8,7 @@
 
 <h3 align="center">LANGUAGES</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="65" />&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="90" />&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="65" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="65" />&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="65" />&nbsp;

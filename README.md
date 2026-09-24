@@ -1,7 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE" alt="Bannière Aditya">
+  <picture>
+    <!-- Bannière pour le thème clair (Texte noir) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=000000&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE">
+    <!-- Bannière pour le thème sombre (Texte blanc) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE">
+    <!-- Image par défaut -->
+    <img alt="Bannière Aditya" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=280&lines=SITTINIANE+Aditya;BUT+INFO+-+IUT+PARIS+RIVES+DE+SEINE">
+  </picture>
 </div>
-
 ---
 
 <h1 align="center">Tech Stack</h1>

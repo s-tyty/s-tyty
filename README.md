@@ -12,19 +12,20 @@
     <td width="50%" align="center" style="border: none; padding: 20px;">
       <h3 align="center">Profil</h3>
       <p align="center">
-        <b>Nom</b> — Le Loup Solitaire<br>
-        <b>Formation</b> — Autodidacte / Ingénieur Systèmes Distribués<br>
-        <b>Localisation</b> — Les Hautes Terres Sauvages<br>
-        <b>Spécialités</b> — P2P - Cryptographie - Rust - Décentralisé<br>
-        <b>Expérience</b> — X années dans l'ombre<br>
-        <b>Recherche</b> — Missions à impact, aucune contrainte.
+        <b>Nom</b> — Aditya SITTINIANE (s-tyty)[cite: 3]<br>
+        <b>Formation</b> — BUT Informatique<br>
+        <b>Localisation</b> — IUT de Paris Rives de Seine[cite: 3]<br>
+        <b>Stack</b> — C, Java, HTML/CSS<br>
+        <b>Réseaux</b> — <a href="https://linkedin.com/in/aditya-sittiniane">LinkedIn</a>[cite: 3]
       </p>
     </td>
     <td width="50%" align="center" style="border: none; padding: 20px;">
       <h3 align="center">En ce moment</h3>
       <p align="center">
-        Je finalise un protocole de routage de données décentralisé et intraçable.<br><br>
-        <i>(Architecture "Mesh" et sécurité post-quantique).</i>
+        Je développe mes projets académiques et personnels dans l'ombre :<br><br>
+        <i>• Interpréteur de commandes (C)</i>[cite: 3]<br>
+        <i>• Exploration Algorithmique (Java)</i>[cite: 3]<br>
+        <i>• Plateforme Nuit de l'Info 2025</i>[cite: 3]
       </p>
     </td>
   </tr>

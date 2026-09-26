@@ -51,6 +51,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="45" />&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" height="45" />&nbsp;
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="45" />&nbsp;
   <img src="https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" height="45" />
 </p>
@@ -63,9 +64,10 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="45" />
 </p>
 
-<h3 align="center">DESIGN & OTHER</h3>
+<h3 align="center">VERSION CONTROL & OTHER</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe_Acrobat-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Adobe Acrobat" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="45" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="45" />&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="45" />
 </p>
 
